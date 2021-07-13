@@ -1,0 +1,39 @@
+body {
+    background-color: #393E46;
+    color: #4ECCA3
+}
+
+.all-container {
+    text-align: center;
+    width: 70%;
+}
+
+h1 {
+    font-size: 6rem;
+    padding: 3rem 1rem 1rem;
+    font-weight: bold;
+}
+
+h1:hover {
+    cursor: pointer;
+}
+
+.mid {
+    margin: 1rem 0 0;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 0 2rem;
+    padding: 3rem;
+    padding-bottom: 1rem;
+}
+
+h2 {
+    margin: 2rem 0 5rem;
+}
+
+h3 {
+    padding: 2rem;
+}
